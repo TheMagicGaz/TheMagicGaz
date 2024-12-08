@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TheMagicGaz
+- 🌱 I’m currently learning The basics of code
